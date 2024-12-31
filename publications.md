@@ -3,7 +3,7 @@ layout: post
 title: Publications
 ---
 
-### Publications
+### Articles
 
 * Alm, J., Gerbrands, P., & Kirchler, E. (2022). Using “responsive regulation” to reduce tax base erosion. *Regulation & Governance, 16(3)*, 738–759. [doi:10.1111/rego.12359](https://doi.org/10.1111/rego.12359)
 * Gerbrands, Peter, and Brigitte Unger, 'Policy Reform Effects in the Tax Ecosystem: An Agent-Based Simulation Approach', in Brigitte Unger, Lucia Rossel, and Joras Ferwerda (eds), *Combating Fiscal Fraud and Empowering Regulators: Bringing tax money back into the COFFERS* (Oxford, 2021; online edn, Oxford Academic, 18 Feb. 2021), [doi:10.1093/oso/9780198854722.003.0014](https://doi.org/10.1093/oso/9780198854722.003.0014)
