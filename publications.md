@@ -9,13 +9,12 @@ title: Publications
 * Gerbrands, Peter, and Brigitte Unger, 'Policy Reform Effects in the Tax Ecosystem: An Agent-Based Simulation Approach', in Brigitte Unger, Lucia Rossel, and Joras Ferwerda (eds), *Combating Fiscal Fraud and Empowering Regulators: Bringing tax money back into the COFFERS* (Oxford, 2021; online edn, Oxford Academic, 18 Feb. 2021), [doi:10.1093/oso/9780198854722.003.0014](https://doi.org/10.1093/oso/9780198854722.003.0014)
 * Gerbrands, P., Unger, B., & Ferwerda, J. (2022). Bilateral responsive regulation and international tax competition: An agent-based simulation. *Regulation & Governance, 16(3)*, 760–780. [doi:10.1111/rego.12397](https://doi.org/10.1111/rego.12397)
 * Gerbrands, P., Unger, B., Getzner, M., & Ferwerda, J. (2022). The effect of anti-money laundering policies: an empirical network analysis. *EPJ Data Science, 11(1)*, 15. [doi:10.1140/epjds/s13688-022-00328-8](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00328-8)
-* Gerbrands, P. (2021). Tax Dynamics and Money Laundering: Simulating Policy Reforms in a Complex System (Utrecht University). [doi:10.33540/854](https://doi.org/10.33540/854)
 
 <!-- ### Working Papers -->
 
-### Master Thesis
-
-* Sustainability of CAPS Social Network: a Network Analysis Approach using Agent-Based Simulation. (2016). [doi:10.13140/RG.2.2.25383.75689](http://dx.doi.org/10.13140/RG.2.2.25383.75689)
+### Theses
+* Gerbrands, P. (2021). Tax Dynamics and Money Laundering: Simulating Policy Reforms in a Complex System (PhD Utrecht University). [doi:10.33540/854](https://doi.org/10.33540/854)
+* Gerbrands, P. (2016). Sustainability of CAPS Social Network: a Network Analysis Approach using Agent-Based Simulation. (MSc, University of Amsterdam). [doi:10.13140/RG.2.2.25383.75689](http://dx.doi.org/10.13140/RG.2.2.25383.75689)
 
 ### Work in Progress
 
