@@ -1,8 +1,17 @@
 - title: About
   url: /about.html
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+- title: Projects
+  url: /projects.html
 
-- title: Designer
-  url: http://patdryburgh.com
+- title: UU Profile
+  url: https://www.uu.nl/staff/PGerbrands
+  
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=pyvXT9kAAAAJ
+
+- title: ResearchGate
+  url: https://www.researchgate.net/profile/Peter-Gerbrands
+
+- title: GitHub
+  url: https://github.com/pgerbrands
