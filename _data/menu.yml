@@ -4,14 +4,8 @@
 - title: Projects
   url: /projects.html
 
-- title: UU Profile
-  url: https://www.uu.nl/staff/PGerbrands
+- title: Publications
+  url: /publications.html
   
-- title: Google Scholar
-  url: https://scholar.google.com/citations?user=pyvXT9kAAAAJ
-
-- title: ResearchGate
-  url: https://www.researchgate.net/profile/Peter-Gerbrands
-
-- title: GitHub
-  url: https://github.com/pgerbrands
+- title: Links
+  url: /links.html
