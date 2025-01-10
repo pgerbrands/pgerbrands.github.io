@@ -1,5 +1,5 @@
 ---
-title: The effect of anti-money laundering policies\: an empirical network analysis.
+title: The effect of anti-money laundering policies - an empirical network analysis.
 layout: post
 author: Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda
 category: literature
