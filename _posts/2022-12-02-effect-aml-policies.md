@@ -6,6 +6,7 @@ category: literature
 ---
 
 **Abstract:**
+
 **Aim:** There is a growing literature analyzing money laundering and the policies to
 fight it, but the overall effectiveness of anti-money laundering policies is still unclear.
 This paper investigates whether anti-money laundering policies affect the behavior of
