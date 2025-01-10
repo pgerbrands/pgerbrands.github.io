@@ -1,6 +1,6 @@
 ---
-title: The effect of anti-money laundering policies: an empirical network analysis
-author: Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda
+title: "The effect of anti-money laundering policies: an empirical network analysis."
+author: "Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda"
 category: literature
 layout: post
 ---
@@ -10,6 +10,8 @@ layout: post
 fight it, but the overall effectiveness of anti-money laundering policies is still unclear.
 This paper investigates whether anti-money laundering policies affect the behavior of
 money launderers and their networks.
+
+<!-- excerpt_separator -->
 
 **Method:** With an algorithm to match clusters over time, we build a unique dataset of
 multi-mode, undirected, binary, dynamic networks of natural and legal persons. The
