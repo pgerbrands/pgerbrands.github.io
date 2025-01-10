@@ -10,6 +10,8 @@ fight it, but the overall effectiveness of anti-money laundering policies is sti
 This paper investigates whether anti-money laundering policies affect the behavior of
 money launderers and their networks.
 
+![Extract of Temporal Network](/assets/images/temporal_network.jpg)
+
 **Method:** With an algorithm to match clusters over time, we build a unique dataset of
 multi-mode, undirected, binary, dynamic networks of natural and legal persons. The
 data includes ownership and employment relations and associated financial ties and
