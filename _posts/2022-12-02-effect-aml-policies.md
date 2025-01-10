@@ -5,7 +5,7 @@ author: Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda
 category: literature
 ---
 
-**Abstract:**
+### Abstract:
 
 **Aim:** There is a growing literature analyzing money laundering and the policies to
 fight it, but the overall effectiveness of anti-money laundering policies is still unclear.
