@@ -1,6 +1,6 @@
 ---
-title: "The effect of anti-money laundering policies: an empirical network analysis."
-author: "Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda"
+title: The effect of anti-money laundering policies: an empirical network analysis.
+author: Peter Gerbrands, Brigitte Unger, Michael Getzner, Joras Ferwerda
 category: literature
 layout: post
 ---
