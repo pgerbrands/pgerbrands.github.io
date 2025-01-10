@@ -28,4 +28,4 @@ policies can affect criminal networks and how such effects can be tested.
 ***Keywords:*** *Money laundering; Social network analysis; Dynamic cluster detection;
 Policy evaluation*
 
-***Citation:*** Gerbrands, P., Unger, B., Getzner, M. et al. The effect of anti-money laundering policies: an empirical network analysis. EPJ Data Sci. 11, 15 (2022). [https://doi.org/10.1140/epjds/s13688-022-00328-8]
+***Citation:*** Gerbrands, P., Unger, B., Getzner, M. et al. The effect of anti-money laundering policies: an empirical network analysis. EPJ Data Sci. 11, 15 (2022). [https://doi.org/10.1140/epjds/s13688-022-00328-8](https://doi.org/10.1140/epjds/s13688-022-00328-8)
