@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peter Gerbrands / Academic Profile"
+title                    : "Peter Gerbrands / Postdoc"
 title_separator          : "-"
 name                     : &name "Peter Gerbrands"
 description              : &description "personal description"
