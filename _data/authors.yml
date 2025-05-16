@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Peter Gerbrands"
+  uri         : "https://www.uu.nl/staff/PGerbrands"
+  email       : "p.gerbrands@uu.nl"
+  bio         : "I'm a postdoc at Utrecht University, School of Economics, focusing on data science, network analysis and agent-based simulation models and part of FIRMBACKBONE."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : # None
+  google_plus : # None
 
 Name2 Name2:
   name        : "Name2 Name2"
